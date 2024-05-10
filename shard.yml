@@ -1,0 +1,9 @@
+name: editorjs
+version: 0.1.0
+
+authors:
+  - CausticKirbyZ
+
+crystal: '>= 1.11.2'
+
+license: MIT
